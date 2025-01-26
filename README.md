@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smillerhecker.
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🌱 I’m currently learning about Transformers.
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: I'm into cybersecurity also.
 - 📫 Reach out to me on Intagram, Facebook.
