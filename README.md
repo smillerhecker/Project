@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning about Transformers.
 - 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: I'm into cybersecurity also.
+- ⚡ Fun fact: I'm into Cybersecurity also.
 - 📫 Reach out to me on Intagram, Facebook.
 
 AI Enthusiast | Future Innovator in Artificial Intelligence | Cybersecurity Advocate
