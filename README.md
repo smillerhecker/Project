@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Transformers.
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: I'm into Cybersecurity also.
-- 📫 Reach out to me on Intagram, Facebook.
+- 📫 Reach out to me on Facebook and Instagram.
 
 AI Enthusiast | Future Innovator in Artificial Intelligence | Cybersecurity Advocate
 
